@@ -1,4 +1,4 @@
-### 👋 Hola! Soy Jaime Rueda, estudiante de Ingeniería Informática en la URJC.
+### 👋 Hola! Soy Jaime Rueda, Ingeniero Informático.
 
 💻 Lenguajes:
 |![8454f12b6d2e69fcf172ea64b78b3a56](https://github.com/jaimachu/jaimachu/assets/116104294/2fe33d3f-2efd-4a3a-9bfd-f9089e431ac0) | ![731_java](https://github.com/jaimachu/jaimachu/assets/116104294/73a84bc5-3651-454e-b270-1899541f04d6) | ![91174838481320be811fa7da10a51fea](https://github.com/jaimachu/jaimachu/assets/116104294/1d9378ce-96cd-4761-91d9-40778b37f392) |
